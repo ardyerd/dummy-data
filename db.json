@@ -1,0 +1,12 @@
+{
+  "buku": [
+    {
+      "isbn": 1,
+      "judul": "Pemrograman Android",
+      "pengarang": "Pak Budi"
+    }
+  ],
+  "profil": {
+    "nama": "Json-Server"
+  }
+}
